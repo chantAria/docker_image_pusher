@@ -1,4 +1,5 @@
 homebridge/homebridge:2025-02-26
+casbin/casdoor:v1.874.0
 node:20.18.3-alpine3.21
 xhofe/alist:v3.42.0
 gogs/gogs:0.13.2
