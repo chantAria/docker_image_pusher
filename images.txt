@@ -1,9 +1,9 @@
+homebridge/homebridge:v1.9.0
 node:20.18.3-alpine3.21
 xhofe/alist:v3.42.0
 gogs/gogs:0.13.2
 mysql:8.4.4
 oznu/homebridge:2023-01-08
-homebridge/homebridge:2025-02-11
 registry:2.8.3
 yegle/fava:v1.30
 homeassistant/home-assistant:2025.2.5
